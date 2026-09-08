@@ -18,3 +18,6 @@ Ver archivo `requirements.txt`
 
 ## Autor
 Naomi 
+
+## Estado
+Proyecto en fase inicial de estructura.
