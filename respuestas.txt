@@ -1,0 +1,10 @@
+1. ¿Cuál es la diferencia entre un repositorio local y uno remoto? 
+2. ¿Cuál es la diferencia entre commit y push? 
+3. ¿Para qué sirve .gitignore? 
+4. ¿Por qué .venv no se almacena normalmente en GitHub? 
+5. ¿Para qué sirve requirements.txt? 
+6. ¿Cuál es la diferencia entre fork y clone? 
+7. ¿Por qué conviene crear una rama antes de modificar el proyecto? 
+8. ¿Qué función cumple un Pull Request? 
+9. ¿Qué se revisa antes de realizar un merge? 
+10. ¿Por qué, después del merge en GitHub, se utiliza git pull en el repositorio local?
