@@ -10,3 +10,5 @@
 10. ¿Por qué, después del merge en GitHub, se utiliza git pull en el repositorio local?
 
 
+
+
