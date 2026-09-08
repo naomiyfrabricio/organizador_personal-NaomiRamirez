@@ -8,3 +8,5 @@
 8. ¿Qué función cumple un Pull Request? 
 9. ¿Qué se revisa antes de realizar un merge? 
 10. ¿Por qué, después del merge en GitHub, se utiliza git pull en el repositorio local?
+
+
