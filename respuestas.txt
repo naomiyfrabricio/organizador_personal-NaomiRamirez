@@ -27,6 +27,3 @@ Normalmente se revisa que el código funcione correctamente (pruebas/tests), que
 
 10. ¿Por qué, después del merge en GitHub, se utiliza git pull en el repositorio local?
 Porque el merge en GitHub actualiza el repositorio remoto, pero tu copia local no se entera automáticamente de esos cambios. git pull descarga esas actualizaciones y las integra a tu repositorio local, para que quede sincronizado con lo que ya está en GitHub.
-
-
-
